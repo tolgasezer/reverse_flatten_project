@@ -14,6 +14,11 @@ empty_list = []
 flatten(y)
 print(empty_list)
 
+
+
+
+
+
 def reverse(x):
     for i in range(int(len(x)/2)):
         temp = x[i]
