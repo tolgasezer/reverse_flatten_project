@@ -31,3 +31,5 @@ def reverse(x):
 
 x = [[1, 2], [3, 4], [5, 6, 7]]
 reverse(x)
+
+[Patika.Dev](www.patika.dev)
